@@ -1,5 +1,13 @@
+# World Wide Wiz - A Geography Quiz Web Application
+World Wide Wiz is a geography quiz web application that provides an interactive and fun way for users to take geography quizzes (map or standard quizzes) and create their own quizzes to share with other users. There is a social aspect to the app where users can view other users' accounts, including their scores on quizzes that they have taken. Users can compete with other users to obtain the highest scores on different geography quizzes.
+
+Technologies used:
+* Front-end: ReactJS and MaterialUI
+* Back-end: Node.js and Express.js
+* Database: PostgreSQL with Prisma serving as the ORM 
+
 ## Requirements
-Make sure you have postgres installed and a postgres server started.\
+Make sure you have PostgreSQL installed and a PostgreSQL database server started.\
 Do not run the web app on Safari, preferably use Chrome.
 ## Steps to Run the Web App Locally
 Clone the repo and cd into the project directory
